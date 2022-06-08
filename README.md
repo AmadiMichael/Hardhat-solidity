@@ -17,7 +17,7 @@ Delete all code in sample-test.js in the scripts folder of your new folder and p
 
 Run 'npx hardhat run --network localhost scripts/sample-script.js' to compile.
 
-Run 'npx hardhat test --network localhost test/sample-test.js' to test.
+Run 'npx hardhat test --network localhost' to test.
 
 
 Note: (For deposits into the bank contract) To run this outside the localhost testnet, you will have to approve the contract address of the Bank contract to have allowance of the amount you want to deposit from the MyToken contract. 
