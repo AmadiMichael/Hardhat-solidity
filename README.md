@@ -14,3 +14,7 @@ Delete all code in hardhat.config.js in your new folder and paste in the code in
 Delete all code in sample-script.js in the scripts folder of your new folder and paste in the code in the deploy.js file in this repo.
 
 Delete all code in sample-test.js in the scripts folder of your new folder and paste in the code in the test.js file in this repo.
+
+Run 'npx hardhat run --network localhost scripts/sample-script.js' to compile.
+
+Run 'npx hardhat test --network localhost test/sample-test.js' to test.
