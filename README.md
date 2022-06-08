@@ -1,4 +1,4 @@
-# Hardhat-solidity
+# Hardhat Solidity
 
 
 Create a new folder and install hardhat
